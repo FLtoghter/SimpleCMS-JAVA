@@ -18,7 +18,7 @@ Ext.application({
     //
     mainView: 'SimpleCMS.view.main.Main',
     default :{
-
+            a:1
     }
 
     //-------------------------------------------------------------------------
